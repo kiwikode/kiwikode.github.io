@@ -1,19 +1,21 @@
-# Scatterbrained CPU
+---
+permalink: /scatterbrain/
+title: "Scatterbrained CPU"
+---
+#Welcome to the Scatterbrained CPU!
 
 ![Scatterbrained%20CPU%205c729e0dd7c448a5a8ee5404691af285/unnamed_(1)_copy.gif](Scatterbrained%20CPU%205c729e0dd7c448a5a8ee5404691af285/unnamed_(1)_copy.gif)
 
-<aside>
 👋🏼 Welcome to the main page of what is starting out as a university course project and will hopefully become something far more interesting. Check out the important links for more context!
+{: .notice}
 
-</aside>
-
-# Important Links
+#Important Links
 
 [Reading Like a Computer | Class Page](https://sites.google.com/nyu.edu/rlac/home?authuser=0)
 
 [Scatterbrained Across Platforms | My Google Site](https://sites.google.com/nyu.edu/scatterbrainedcpu/home) 
 
-# Assignments
+#Assignments
 
 [Movement Interviews](https://www.notion.so/Movement-Interviews-94e8ce70e33340a0820813aa6b465a19?pvs=21)
 
@@ -21,7 +23,7 @@
 
 [Tolstoy Deep Dive](https://www.notion.so/Tolstoy-Deep-Dive-4cc2936972e443b5b9c0b1ea7881c3e9?pvs=21)
 
-# Blog Entries
+#Blog Entries
 
 [AntConc on Harry Potter](https://www.notion.so/AntConc-on-Harry-Potter-d41863a4049a4a52a0fd329cc8bdb6a0?pvs=21)
 
@@ -29,7 +31,7 @@
 
 [Course Conclusion ](https://www.notion.so/Course-Conclusion-ef1aa6e2aa68429a941dbe5530585e8d?pvs=21)
 
-# Quick Responses
+#Quick Responses
 
 [What is reading?](https://www.notion.so/What-is-reading-f4d5c4d3ddea4c5e8268fc025d974b29?pvs=21)
 
@@ -47,7 +49,7 @@
 
 [The R Crash Site](https://www.notion.so/The-R-Crash-Site-1575dceb580e489e8d9e38c98ee46135?pvs=21)
 
-# Self Care Log
+#Self Care Log
 
 [Week 7](https://www.notion.so/Week-7-cd7fd1eef5d8454e8b3faec541a7e4bf?pvs=21)
 
@@ -63,6 +65,6 @@
 
 [Week 13 ](https://www.notion.so/Week-13-2774ffe182fc49b8b21388dadcc29db3?pvs=21)
 
-# Reading
+#Reading
 
 [Course Materials](Scatterbrained%20CPU%205c729e0dd7c448a5a8ee5404691af285/Course%20Materials%20902b8b180a3043248b84628d68b44b83.csv)
